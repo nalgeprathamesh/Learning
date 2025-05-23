@@ -40,5 +40,6 @@ Those found to be using or distributing this content without proper credit or
 permission will be held **accountable for plagiarism and ethical misconduct.**
 ---
 
-> ✍️ *“Originality is not about doing something no one has ever done, but doing
-> what only **you** could do.”* — P.N.
+<!-- ✍️ *“Originality is not about doing something no one has ever done, but doing
+> what only **you** could do.”* — P.N. -->
+<!-- "End of Transparency.md" -->
