@@ -11,3 +11,6 @@ In this document, you'll find:
 
 > This file is included in each project or topic folder to make it clear what’s mine, what’s assisted, and what’s part of the learning process.  
 > Transparency matters more than pretending to be perfect.
+
+---
+🗓️ *Note: The concept and format of this transparency log was originally created by me on 23/05/2025 as part of my commitment to honest, trackable learning.*
