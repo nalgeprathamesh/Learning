@@ -7,7 +7,7 @@
 ## 🔍 Quick Summary of Major Rules
 
 - ✅ **Viewing and learning** from any public file is allowed.
-- ⚠️ **Using, modifying, or sharing code** requires permission—unless it's a small snippet (< 100 lines) and proper credit is given.
+- ⚠️ **Using, modifying, or sharing code** requires permission—unless it's a small snippet (< 100 lines)and not constituting a significant portion or core functionality of any project and proper credit is given.
 - 🚫 **No commercial use** of any code, content, or file without written consent.
 - ✍️ **Credit and attribution is required** if your work is based on or inspired by mine.
 - 🤖 **Scraping this profile using bots, scripts, or AI tools is strictly forbidden.**
