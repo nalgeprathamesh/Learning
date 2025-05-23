@@ -14,7 +14,7 @@ In this document, you'll find:
 
 <!-- "Powered by patience and bugs 🐞" -->
 ---
-🗓️ *Note: The concept and format of this transparency log was originally created by me on 23/05/2025 as part of my commitment to honest, trackable learning.*
+🗓️ *Note: The concept and format of this transparency log was originally created by me(Prathamesh Nalge) on 23/05/2025 as part of my commitment to honest, trackable learning.*
 
 <!-- Created by Prathamesh Nalge | Original Transparency.md concept | 23/05/2025 -->
 
