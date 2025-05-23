@@ -43,6 +43,7 @@ This repository is part of my self-learning journey.
 I'm committed to learning honestly and deeply, so I’ve documented all external help or tools used.  
 **No shortcuts — just real learning, real progress.**
 
+<!-- "Powered by patience and bugs 🐞" -->
 
 ---
 🗓️ *Note: The concept and format of this transparency log was originally created by me on 23/05/2025 as part of my commitment to honest, trackable learning.*
