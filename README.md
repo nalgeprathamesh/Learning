@@ -20,5 +20,7 @@ For CodeWithHarry Self Made(by Prathamesh) - https://fine-magnolia-c35.notion.si
 
 📺 YouTube Channel – My old channel still pulls in 25K+ views/month! Planning a fresh new channel focused on AI, DS & coding soon!
 
+📝 The transparency.md structure was a personal initiative I started on 23/05/2025 to keep my learning honest and trackable.
+
 “The best way to learn is to build and reflect.”
 — Me, navigating the chaos one commit at a time 😄
