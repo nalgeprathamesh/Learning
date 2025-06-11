@@ -28,17 +28,17 @@ This is not just a bunch of notes — it’s my **open-source learning companion
 ### ✅ **Completed**
 
 - **CWH Python**  
-  Mastered conditional programming concepts, loops, functions and recursions, and Python basics.
+  Mastered functions,recursions,OOP, inheritance, polymorphism, encapsulation, etc.
 
 - **Mini Project**  
-  Built a fun little project: `Rock, Paper , Scissors`(Latest) using Python 🕵️
+  Built a fun little project: `The Perfect Guess`(Latest) using Python 🕵️
 
 ---
 
 ### 🛠️ **In Progress**
 
-- **📓 Chapter 8 Notes**  
-  Documenting functions and recursion programming notes on Notion in my own words.
+- **📓 Chapter 11 Notes**  
+  Documenting Advanced OOP and Inheritance currently.
 
 - **Upcoming Mini Projects**  
   Planning more hands-on builds to reinforce core logic.
