@@ -59,7 +59,7 @@ It’s not just about finishing — it’s about learning **deliberately** and *
 
 ## 🌐 Connect & Explore More
 
-- 📧 **Email** – [prathameshnalgenew@gmail.com]
+- 📧 **Email** – prathameshnalgenew@gmail.com
 - 📔 **Notion Notes** –  
   Custom notes for CodeWithHarry’s Python course (built from scratch by me):  
   👉 [View on Notion](https://fine-magnolia-c35.notion.site/CWH-Python-10hr-Beginners-Course-1f5c895ea3448010aefafd04e879d328?pvs=4)
