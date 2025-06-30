@@ -31,17 +31,17 @@ This is not just a bunch of notes — it’s my **open-source learning companion
   Mastered functions,recursions,OOP, inheritance, polymorphism, encapsulation, etc.
 
 - **Mini Project**  
-  Built a fun little project: `The Perfect Guess`(Latest) using Python 🕵️
+  Built project: `Jarvis AI`(Gemini API, OS module,pyttsx3,webbrowser, will add Selenium in future)  and `Auto Reply Bot`(Gemini API, Pyautogui)using Python 🕵️
 
 ---
 
 ### 🛠️ **In Progress**
 
-- **📓 Chapter 11 Notes**  
+- **📓 CS50 Week 1**  
   Documenting Advanced OOP and Inheritance currently.
 
-- **Upcoming Mini Projects**  
-  Planning more hands-on builds to reinforce core logic.
+- **Upcoming Projects**  
+  Planning to build an cinematic game trailer in UE5.6 and submit it as final CS50 Project
 
 ---
 
@@ -59,7 +59,7 @@ It’s not just about finishing — it’s about learning **deliberately** and *
 
 ## 🌐 Connect & Explore More
 
-- 📧 **Email** – [prathameshnalgenew@gmail.com](mailto:prathameshnalgenew@gmail.com)
+- 📧 **Email** – [prathameshnalgenew@gmail.com]
 - 📔 **Notion Notes** –  
   Custom notes for CodeWithHarry’s Python course (built from scratch by me):  
   👉 [View on Notion](https://fine-magnolia-c35.notion.site/CWH-Python-10hr-Beginners-Course-1f5c895ea3448010aefafd04e879d328?pvs=4)
