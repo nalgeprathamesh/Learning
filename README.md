@@ -28,7 +28,7 @@ This is not just a bunch of notes — it’s my **open-source learning companion
 ### ✅ **Completed**
 
 - **CWH Python**  
-  Mastered functions,recursions,OOP, inheritance, polymorphism, encapsulation, etc.
+  Mastered functions,recursions,OOP, inheritance, polymorphism, encapsulation, dunder methods,etc.
 
 - **Mini Project**  
   Built project: `Jarvis AI`(Gemini API, OS module,pyttsx3,webbrowser, will add Selenium in future)  and `Auto Reply Bot`(Gemini API, Pyautogui)using Python 🕵️
@@ -38,10 +38,10 @@ This is not just a bunch of notes — it’s my **open-source learning companion
 ### 🛠️ **In Progress**
 
 - **📓 CS50 Week 1**  
-  Documenting Advanced OOP and Inheritance currently.
+  Learning Basics of C.
 
 - **Upcoming Projects**  
-  Planning to build an cinematic game trailer in UE5.6 and submit it as final CS50 Project
+  Planning to build an cinematic game trailer(based on a Sci-fi concept where protagonist survives and stays in cryosleep for millions of years. (Can't reveal story further)) in UE5.6 and submit it as final CS50 Project
 
 ---
 
