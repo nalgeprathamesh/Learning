@@ -37,7 +37,7 @@ This is not just a bunch of notes — it’s my **open-source learning companion
 
 ### 🛠️ **In Progress**
 
-- **📓 CS50 Week 1**  
+- **📓 CS50 Week 2 PSETs**  
   Learning Basics of C.
 
 - **Upcoming Projects**  
