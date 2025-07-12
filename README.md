@@ -37,8 +37,8 @@ This is not just a bunch of notes — it’s my **open-source learning companion
 
 ### 🛠️ **In Progress**
 
-- **📓 CS50 Week 2 PSETs**  
-  Learning Basics of C.
+- **📓 Harvard CS50 Week 2 PSETs**  
+  Built Readability and Scrabble. Now working on Substitution Pset
 
 - **Upcoming Projects**  
   Planning to build an cinematic game trailer(based on a Sci-fi concept where protagonist survives and stays in cryosleep for millions of years. (Can't reveal story further)) in UE5.6 and submit it as final CS50 Project
